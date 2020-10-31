@@ -5,19 +5,6 @@ After installing you just need to add the ``ultrapunishments.admin`` permission 
 
 <br />
 
-*Some extra permission nodes*
-ultrapunishments.ban.execute
-ultrapunishments.ban.revoke
-ultrapunishments.mute.execute
-ultrapunishments.mute.revoke
-ultrapunishments.manage.templates
-ultrapunishments.manage.settings
-ultrapunishments.report.respond
-ultrapunishments.warning.execute
-ultrapunishments.warning.revoke
-ultrapunishments.admin
-ultrapunishments.manage.exclusions
-
 If you are using BungeeCord, install Ultra Punishments there as well and setup MySQL on every Server.
 The MySQL Settings can be accessed from */upun > Settings > MySQL*
 
