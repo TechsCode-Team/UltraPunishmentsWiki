@@ -15,6 +15,10 @@
   (Requires ``ultrapunishments.mute.revoke``)
 * **/mutechat** to mute the chat for normal players
   (Requires ``ultrapunishments.mutechat.execute``)
+* **/Freeze** to freeze a player
+  (Requires ``ultrapunishments.freeze.execute``)
+* **/Unfreeze** to unfreeze a player
+  (Requires ``ultrapunishments.freeze.revoke``)
 <br />
 
 ### Other Permissions
@@ -32,6 +36,10 @@
   Allow players this permission to acces the details
 * ``ultrapunishments.warning.revoke``
   Allow players this permission to revoke previously issued warnings
+* ``ultrapunishments.freeze.execute``
+  Allow players this permission to freeze players
+* ``ultrapunishments.freeze.revoke``
+  Allow players this permission to unfreeze players
 
 <br />
 
