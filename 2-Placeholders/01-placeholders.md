@@ -1,4 +1,4 @@
-##Placeholders
+Placeholders
 * `%upun_player_bans%` Shows current user ban amount
 * `%upun_player_mutes%` Shows current user mute amount
 * `%upun_player_reports%` Shows current user report amount
