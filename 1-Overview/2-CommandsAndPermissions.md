@@ -33,5 +33,11 @@
 * ``ultrapunishments.warning.revoke``
   Allow players this permission to revoke previously issued warnings
 
+### Enabling Discord Intergration
+1. Add Ultrabot to your discord.
+2. Type !getAuth in the discord to get the authorization key.
+3. Go into settings and enable discord intergration.
+4. Put in the auth key.
+5. Put in the channel id you want reports sent to (right click channel and click ``copy ID``).
 <br />
 
