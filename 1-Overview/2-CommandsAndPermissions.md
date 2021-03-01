@@ -15,6 +15,8 @@
   (Requires ``ultrapunishments.mute.revoke``)
 * **/mutechat** to mute the chat for normal players
   (Requires ``ultrapunishments.mutechat.execute``)
+* **/kick** to kick a player
+  (Requires ``ultrapunishments.kick.execute``)
 <br />
 
 ### Other Permissions
