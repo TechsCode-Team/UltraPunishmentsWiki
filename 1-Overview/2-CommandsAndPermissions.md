@@ -17,6 +17,11 @@
   (Requires ``ultrapunishments.mutechat.execute``)
 * **/kick** to kick a player
   (Requires ``ultrapunishments.kick.execute``)
+* **/Freeze** to freeze a player
+  (Requires ``ultrapunishments.freeze.execute``)
+* **/Unfreeze** to unfreeze a player
+  (Requires ``ultrapunishments.freeze.revoke``)
+
 <br />
 
 ### Other Permissions
