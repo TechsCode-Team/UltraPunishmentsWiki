@@ -2,11 +2,11 @@
 You need to create a custom bot at the developers portal of discord.
  
 How to create a bot:
-    1. Press New application on the top right
-    2. Give it a name *Ex: UltraPunishments*
-    3. Go to the bot section on the left.
-    4. Create the actual bot at the left
-    5. and copy the token by pressing copy token
+* 1.Press New application on the top right
+* 2.Give it a name *Ex: UltraPunishments*
+* 3.Go to the bot section on the left
+* 4.Create the actual bot at the left
+* 5.Copy the token by pressing copy token
  
 When you have followed the steps above you can now continue setting up the discord integration
  
