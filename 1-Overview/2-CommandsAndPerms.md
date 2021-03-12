@@ -1,30 +1,45 @@
 ## Commands and Permissions
 
 
-* **/upun** to open the Punishment GUI
+* **/upun** To open the Punishment GUI
   (Requires ``Any permission that has something to do with the GUI``)
-* **/ban** to ban a player
+* **/ban (User) (Server) (Time) {Reason}** to ban a player
   (Requires ``ultrapunishments.ban.execute``)
-* **/unban** to unban a player
+* **/unban (User)** to unban a player
   (Requires ``ultrapunishments.ban.revoke``)
-* **/warn** to warn a player
+* **/warn (User) (Server) [Kick or Message] {Reason}** to warn a player
   (Requires ``ultrapunishments.warning.execute``)
-* **/mute** to mute a player
+* **/mute (User) (Time) {reason}** to mute a player
   (Requires ``ultrapunishments.mute.execute``)
-* **/unmute** to unmute a player
+* **/unmute (User)** to unmute a player
   (Requires ``ultrapunishments.mute.revoke``)
 * **/mutechat** to mute the chat for normal players
   (Requires ``ultrapunishments.mutechat.execute``)
-* **/kick** to kick a player
+* **/kick (User) {Reason}** to kick a player
   (Requires ``ultrapunishments.kick.execute``)
-* **/Freeze** to freeze a player
+* **/Freeze (User) (Time) {Reason}** to freeze a player
   (Requires ``ultrapunishments.freeze.execute``)
-* **/Unfreeze** to unfreeze a player
+* **/Unfreeze (User)** to unfreeze a player
   (Requires ``ultrapunishments.freeze.revoke``)
+
+### Symbols and option explanation
+
+* **()** = This feeld is required
+* **{}** = This feeld is optional
+* **[]** = There has to be choosen on of the options
+
+* **User** This feeld needs to contain a player
+* **Server** This feeld is the server the punishment will count for. `all` for all servers and `Server_Name` for a precise server
+* **Time** This feeld is the duration of the punishment
+* **Reason** This feeld will be the reason of the punishment
+* **Kick or Message** `Kick` will kick the player with the warning `Message` Will send a message to the player
+
+
+
 
 <br />
 
-### Other Permissions
+#### Other Permissions
 * ``ultrapunishments.manage.templates``
   Allow players with this permission to manage templates
 * ``ultrapunishments.manage.settings``
