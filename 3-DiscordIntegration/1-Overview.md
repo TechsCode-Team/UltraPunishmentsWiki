@@ -2,7 +2,7 @@
 * Welcome to the discord integration guide. Everything about the Discord Integration will be explained here.
 * After installing you just need to add the ``discordbot.admin`` permission to yourself and execute **/discordbot** or using the GUI button in **/upun**
 
-<br/>
+<br>
  
 ## Features
 The Discord Integration has currently 4 options:
