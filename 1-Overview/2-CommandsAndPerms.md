@@ -7,7 +7,7 @@
   (Requires ``ultrapunishments.ban.execute``)
 * **/unban (User)** to unban a player
   (Requires ``ultrapunishments.ban.revoke``)
-* **/warn (User) (Server) [Kick or Message] {Reason}** to warn a player
+* **/warn (User) (Server) (Kick or Message) {Reason}** to warn a player
   (Requires ``ultrapunishments.warning.execute``)
 * **/mute (User) (Time) {reason}** to mute a player
   (Requires ``ultrapunishments.mute.execute``)
@@ -26,7 +26,6 @@
 
 * **()** = This feeld is required
 * **{}** = This feeld is optional
-* **[]** = There has to be choosen on of the options
 
 * **User** This feeld needs to contain a player
 * **Server** This feeld is the server the punishment will count for. `all` for all servers and `Server_Name` for a precise server
