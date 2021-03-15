@@ -4,7 +4,7 @@
 
 <br>
  
-Features
+<b>Features</b><br>
 The Discord Integration has currently 4 options:
 * <b>Reports</b> This will send your reports to a discord channel
 * <b>Freeze</b> This will send a discord message when a player has been frozen
