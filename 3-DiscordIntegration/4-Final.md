@@ -1,5 +1,5 @@
 # Final actions
-Once you have setup the discord bot ID and the Guild ID you can now follow the steps below.\n
+Once you have setup the discord bot ID and the Guild ID you can now follow the steps below.
  
 The only thing left to do is to enter the Ultra Punish settings to configure the channels for the punishments and reports.\n
  
@@ -12,4 +12,4 @@ Than enable this setting\n
 Now right-click the channel where the message need to go and press copy channel ID.
 Now press the punishment that you want to connect to that channel and paste the ID.\n
  
-Once you've followed the steps above, the bot should work.
+Once you've followed the steps above, you need to reload your server once to start the bot.
