@@ -4,9 +4,9 @@
 
 <br>
  
-## Features
+Features
 The Discord Integration has currently 4 options:
-* **Reports** This will send your reports to a discord channel
-* **Freeze** This will send a discord message when a player has been frozen
-* **Kick** This will send a discord message when a player has been kicked
-* **Ban** This will send a discord message when a player has been banned
+* <b>Reports</b> This will send your reports to a discord channel
+* <b>Freeze</b> This will send a discord message when a player has been frozen
+* <b>Kick</b> This will send a discord message when a player has been kicked
+* <b>Ban</b> This will send a discord message when a player has been banned
