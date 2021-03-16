@@ -53,3 +53,5 @@
   Allow players this permission to acces the details
 * ``ultrapunishments.warning.revoke``
   Allow players this permission to revoke previously issued warnings
+* ``ultrapunishments.broadcaster.recieve``
+  Allows players to see the punishment broadcast message if enabled
