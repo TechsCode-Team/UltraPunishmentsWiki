@@ -18,3 +18,15 @@ These Placeholders can only be used after installing the *PlaceholderAPI* & only
 * `%upun_player_banDuration%` Shows shows how long current user ban duration is
 * `%upun_player_freezeDuration%` Shows how long current user freeze duration is
 * `%upun_player_muteDuration%` Shows how long current user mute duration is
+
+* `%upun_punishment_<ID>_type%` Returns the punishment type for the specified ID.
+* `%upun_punishment_<ID>_target%` Returns the person who was punished.
+* `%upun_punishment_<ID>_issuer%` Returns the person who issued the punishment.
+* `%upun_punishment_<ID>_leftDuration%` Shows how much time remains for the punishment.
+* `%upun_punishment_<ID>_fullDuration%` Shows the total duration of the punishment.
+
+#### Format placholders
+
+These placholders can be used in the format of kick, ban, mute messages.
+
+* `{ID}` shows the id of the punishment.
