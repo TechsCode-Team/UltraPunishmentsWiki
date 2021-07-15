@@ -2,6 +2,7 @@
 Below is a list of all available placeholders. Keep in mind these placeholders require [*PlaceholderAPI*](https://www.spigotmc.org/resources/6245/) & a plugin that supports the API!
 <br>
 
+#### Main Placeholders
 * **``%upun_player_bans%``**
   Shows current user ban amount
 * **``%upun_player_mutes%``**
@@ -27,7 +28,7 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
 * **``%upun_player_muteDuration%``**
   Shows how long current user mute duration is
 
-
+#### Format placholders
 * **``{id}``**
   Shows the id of the punishment
 * **``{PunishmentDate}``**
