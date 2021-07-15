@@ -3,15 +3,15 @@ In this guide you learn on how to create a Discord bot.
 <br>
 
 How to create a bot:
-* This guide requires you to visit the [Discord developer portal](https://discord.com/developers).
-* 1.Press New application on the top right
+* This guide requires you to visit the [**Discord Developer Portal**](https://discord.com/developers).
+* 1.Press *New Application* on the top right
 * 2.Give it a name *Ex: PLUGIN NAME*
 * 3.Go to the bot section on the left
 * 4.Create the actual bot on the left
-* 5.Copy the token by pressing Copy Token.
+* 5.Copy the token by pressing *Copy Token*.
 <br>
 
-When you have followed the steps above you can now continue setting up the Discord integration in game.
+When you have followed the steps above, you can now continue setting up the Discord Integration in game.
 <br>
  
 Now get back to the server and use `/discordbot` if you closed the settings menu (or use the button in the PLUGIN NAME GUI).
