@@ -10,7 +10,7 @@ You can communicate with our support team by joining our [Discord](/discord). It
  - [Commands](/wiki/overview) The list of commands
  - [Permissions](/wiki/overview) - The list of permisisons
  - [Installation Guide](/wiki/installation) - A quick guide on how to install Ultra Punishments
- - [Discord Intergration](/wiki/discord-integration) - A quick guide on how to setup the Discord integration
+ - [Discord Intergration](/wiki/insane-discord) - A quick guide on how to setup the Discord integration
  - [Features](/wiki/features) - A list with all the features of Ultra Punishments
  - [API](/wiki/api) - A guide on how to use the API for developers
 
