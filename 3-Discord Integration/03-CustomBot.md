@@ -2,22 +2,23 @@
 In this guide you learn on how to create a Discord Bot.
 <br>
 
-**``NOTE:`` * This guide requires you to visit the [Discord Developer Portal](https://discord.com/developers).**
+**``NOTE:`` This guide requires you to visit the [Discord Developer Portal](https://discord.com/developers).**
+<br>
 
 How to create a bot:
-* 1. Press **New Application** on the top right
-* 2. Give it a name. **Ex: Ultra Punishments**
-* 3. Go to the bot section on the left.
-* 4. Create the actual bot on the left
+1. Press **New Application** on the top right
+2. Give it a name. **Ex: Ultra Punishments**
+3. Go to the bot section on the left.
+4. Create the actual bot on the left
 <br>
 
 **``NOTE:`` Make sure you have enabled both "Privileged Gateway Intents" options.**
 <br>
 
 Invite the bot in your server:
-* 1. Go to the **OAuth2** menu.
-* 2. In the **OAuth2 URL Generator** section, press **bot**
-* 3. Use the provided URL to invite the bot in your server.
+1. Go to the **OAuth2** menu.
+2. In the **OAuth2 URL Generator** section, press **bot**
+3. Use the provided URL to invite the bot in your server.
 <br>
 
 When you have followed the steps above, you can now continue setting up the Discord Integration in game.

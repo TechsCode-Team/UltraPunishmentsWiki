@@ -8,5 +8,5 @@ The Discord Integration has currently 3 options:
     Sends a report to discord when an event such as a player getting banned
 * **Verified User** 
     Link the user's Discord account to Minecraft
-* **Role Sync System** Requires **[Ultra Permissions](https://ultrapermissions.com)**
+* **Role Sync System** - Requires **[Ultra Permissions](https://ultrapermissions.com)**
     This will synchronise your Discord roles on the server.
