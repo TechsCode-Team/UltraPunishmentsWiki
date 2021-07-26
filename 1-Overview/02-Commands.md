@@ -1,31 +1,31 @@
 # Commands
 Here is a list of all the commands that can be used.
-(br)
+<br>
 
-* **/upun**
+* ``/upun``
   To open the Punishment GUI
-* **/ban (User) (Server) (Time) {Reason}**
+* ``/ban <User> <Server> <Time> [Reason]``
   To ban a player
-* **/unban (User)**
+* ``/unban <User>``
   To unban a player
-* **/mute (User) (Time) {Reason}**
+* ``/mute <User> <Time> [Reason]``
   To mute a player
-* **/unmute (User)**
+* ``/unmute <User>``
   To unmute a player
-* **/freeze (User) (Time) {Reason}**
+* ``/freeze <User> <Time> [Reason]``
   To freeze a player
-* **/unfreeze (User)**
+* ``/unfreeze <User>``
   To unfreeze a player
-* **/kick (User) {Reason}**
+* ``/kick <User> [Reason]``
   To kick a player
-* **/warn (User) (Server) (Kick|Message) {Reason}**
+* ``/warn <User> <Server> <Kick|Message> [Reason]``
   To warn a player
-* **/clearchat**
+* ``/clearchat``
   Clears the entire chat for everyone
-* **/mutechat**
+* ``/mutechat``
   To mute the chat for normal players
-(br)
+<br>
 
 ## Symbols:
- - () = Required
- - {} = Optional
+ - <> = Required
+ - [] = Optional
