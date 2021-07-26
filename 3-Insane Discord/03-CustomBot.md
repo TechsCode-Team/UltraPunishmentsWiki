@@ -43,8 +43,8 @@ Enabling developer mode of Discord:
 Now right click your server name/server icon and press **Copy ID**.
 Now you need to press *Guild ID* at the settings GUI and paste this key.
 
-# Final actions
-Once you have setup the Discord Bot ID and the Guild ID you can now follow the steps below.
+# Final Actions
+Once you have setup the Discord Bot ID and the Guild ID, you should be good to go.
 <br>
  
 The only thing left to do is to enter the Ultra Punsihments settings to configure the Discord Integration Features.
