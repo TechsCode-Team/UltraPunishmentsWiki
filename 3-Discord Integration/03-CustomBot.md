@@ -2,7 +2,7 @@
 In this guide you learn on how to create a Discord Bot.
 <br>
 
-**``NOTE:`` This guide requires you to visit the [Discord Developer Portal](https://discord.com/developers).**
+**`NOTE:` This guide requires you to visit the [Discord Developer Portal](https://discord.com/developers).**
 <br>
 
 ##### How to create a bot:
@@ -12,7 +12,7 @@ In this guide you learn on how to create a Discord Bot.
 4. Create the actual bot on the left
 <br>
 
-**``NOTE:`` Make sure you have enabled both "Privileged Gateway Intents" options.**
+**`NOTE:` Make sure you have enabled both "Privileged Gateway Intents" options.**
 <br>
 
 ##### Invite the bot in your server:
