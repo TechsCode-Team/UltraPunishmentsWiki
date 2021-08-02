@@ -16,3 +16,4 @@ Here are all the default features from Ultra Punishments.
     Can also be used with commands for automation & staff
 * **`BungeeCord & MySQL`**
     Compatible with MySQL & multiple servers for punishing on specific servers
+    

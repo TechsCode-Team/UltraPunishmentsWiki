@@ -13,4 +13,3 @@ When your server has been started there should be a new folder called Ultra Puni
 
 ## Testing the plugin
 If you have followed the steps above the plugin is now running. You can now use `/upun`
-<br>
