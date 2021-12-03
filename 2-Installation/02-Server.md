@@ -1,5 +1,5 @@
 # Server installation
-Once you have downloaded the latest version of Ultra Permissions, put its .jar file inside the `plugins` directory of your server.
+Once you have downloaded the latest version of Ultra Punishments, put its .jar file inside the `plugins` directory of your server.
 <br>
 
 **`NOTE:` Make sure to stop the server before doing this.**
