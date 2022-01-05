@@ -8,5 +8,6 @@ Ultra Punishments is supported on all versions (release) from **1.8.8 to 1.18.X*
 
 **`NOTE:` Our plugins do not officially support offline-mode!**
 <br>
+
 # Download The Latest Build
 Download the latest build of Ultra Punishments via the resource page **[here](https://www.spigotmc.org/resources/ultra-punishments.63511/)**.
