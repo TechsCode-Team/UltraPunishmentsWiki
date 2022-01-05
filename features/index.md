@@ -5,7 +5,7 @@ Below you can find all the available features of Ultra Punishments. If you want 
 # Main features of Ultra Punishments
 <br>
 
-Here are all the default features from Ultra Punishments.
+Here are all the features from Ultra Punishments.
 <br>
 
 * **`Punishment Templates`**
