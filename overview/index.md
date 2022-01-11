@@ -7,9 +7,9 @@ You can communicate with our support team by joining our **[Discord](https://dis
 <br>
 
 ## What can you find on the wiki?
-- [Commands](./overview/commands.md) - The list of commands
-- [Permissions](./overview/permissions.md) - The list of permisisons
-- [Placeholders](./overview/placeholders.md) - The list of placeholders
+- [Commands](./overview/commands) - The list of commands
+- [Permissions](./overview/permissions) - The list of permisisons
+- [Placeholders](./overview/placeholders) - The list of placeholders
 - [Installation Guide](./installation) - A quick guide on how to install Ultra Punishments
 - [Features](./features) - A list with all the features of Ultra Punishments
 - [API](./api) - A guide on how to use the API for developers
