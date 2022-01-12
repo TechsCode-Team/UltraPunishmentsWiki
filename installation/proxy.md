@@ -6,6 +6,8 @@ For a proxy installation, you need to repeat the plugin installation process for
 <br>
 
 The process is similar as the Spigot installation:
+<br>
+
 - Shut down your server.
 - Upload the plugin.
 - Start your server.
@@ -34,6 +36,8 @@ Then click on the Paper in the middle-left of the GUI. *(Called `Credentials`)*
 This will close the GUI and ask you to enter your database's credentials.
 
 Here you will need to fill in the credentials *(info)* of your database. By typing them in the chat in this order:
+<br>
+
 - Database IP - Format: 0.0.0.0
 - Database Port - Usually: 3306
 - Database Name - Depends on what you named your database.
