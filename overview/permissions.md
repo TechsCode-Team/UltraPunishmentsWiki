@@ -18,9 +18,9 @@ Here is a list of all the permissions that can be used
   Allows to unfreeze a player
 * `ultrapunishments.kick.execute`
   Allows to kick a player from the server
-* `ultrapunishments.warn.execute`
+* `ultrapunishments.warning.execute`
   Allow to issue warnings
-* `ultrapunishments.warn.revoke`
+* `ultrapunishments.warning.revoke`
   Allow to revoke previously issued warnings
 * `ultrapunishments.chatclear.execute`
   Allows the clear the chat for everyone
