@@ -8,3 +8,5 @@ Below you can find all the frequently asked questions of Ultra Punishments. If y
 Here are all the frequently asked questions from Ultra Punishments.
 <br>
 
+* **`Does the plugin support Velocity?`**
+  At the moment it does not support Velocity, but in the future it will
