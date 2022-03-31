@@ -24,6 +24,8 @@ Here is a list of all the commands that can be used.
   Clears the entire chat for everyone
 * `/mutechat`
   To mute the chat for normal players
+* `/upTransfer <File|MySQL> <File|MySQL>`
+  Transfers storage to either MySQL or File
   <br>
 
 ## Symbols:
