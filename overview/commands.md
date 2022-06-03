@@ -4,6 +4,8 @@ Here is a list of all the commands that can be used.
 
 * `/upun`
   To open the Punishment GUI
+* `/behavior`
+  To open the Behavior GUI
 * `/ban <User> <Server> <Time> [Reason]`
   To ban a player
 * `/unban <User>`
@@ -20,6 +22,8 @@ Here is a list of all the commands that can be used.
   To kick a player
 * `/warn <User> <Server> <Kick|Message> [Reason]`
   To warn a player
+* `/rollback <User> <Punishment Type> <Notification Type> <Server> <TimeInterval> [Reason]`
+  To rollback a executed punishment
 * `/clearchat`
   Clears the entire chat for everyone
 * `/mutechat`
