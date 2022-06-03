@@ -6,19 +6,19 @@ Here is a list of all the commands that can be used.
   To open the Punishment GUI
 * `/behavior`
   To open the Behavior GUI
-* `/ban <User> <Server> <Time> [Reason]`
+* `/ban <User> <Server> <Time> <Notification Type> [Reason]`
   To ban a player
 * `/unban <User>`
   To unban a player
-* `/mute <User> <Time> [Reason]`
+* `/mute <User> <Time> <Notification Type> [Reason]`
   To mute a player
 * `/unmute <User>`
   To unmute a player
-* `/freeze <User> <Time> [Reason]`
+* `/freeze <User> <Time> <Notification Type> [Reason]`
   To freeze a player
 * `/unfreeze <User>`
   To unfreeze a player
-* `/kick <User> [Reason]`
+* `/kick <User> <Notification Type> [Reason]`
   To kick a player
 * `/warn <User> <Server> <Kick|Message> [Reason]`
   To warn a player
