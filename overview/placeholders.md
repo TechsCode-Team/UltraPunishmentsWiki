@@ -13,6 +13,20 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   Shows current user freeze amount
 * **`%upun_player_punishments%`**`
   Shows current user all punishment amount
+* **`%upun_server_bans%`**`
+  Shows amount of all existing bans
+* **`%upun_server_mutes%`**`
+  Shows amount of all existing mutes
+* **`%upun_server_freezes%`**`
+  Shows amount of all existing freezes
+* **`%upun_server_punishments%`**`
+  Shows amount of all existing punishments   
+* **`%upun_server_reports_all%`**`
+  Shows amount of all created tickets
+* **`%upun_server_reports_opened%`**`
+  Shows amount of all open tickets
+* **`%upun_server_reports_closed%`**`
+  Shows amount of all closed tickets 
 * **`%upun_player_isPunishable%`**
   Shows (`True`/`False`) if current user is punishable
 * **`%upun_player_isMuted%`**
