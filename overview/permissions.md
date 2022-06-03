@@ -26,6 +26,22 @@ Here is a list of all the permissions that can be used
   Allows the clear the chat for everyone
 * `ultrapunishments.mutechat.execute`
   Allows to mute the server chat
+* `ultrapunishments.rollback.command`
+  Allows to rollback executed punishments
+* `ultrapunishments.behavior.command`
+  Allows to see own Behavior status
+* `ultrapunishments.bypass.report`
+  Bypasses getting reported
+* `ultrapunishments.bypass.warn`
+  Bypasses getting warned
+* `ultrapunishments.bypass.kick`
+  Bypasses getting kicked
+* `ultrapunishments.bypass.ban`
+  Bypasses getting banned
+* `ultrapunishments.bypass.mute`
+  Bypasses getting muted
+* `ultrapunishments.bypass.freeze`
+  Bypasses getting frozen  
 * `ultrapunishments.manage.templates`
   Allow to manage templates
 * `ultrapunishments.manage.settings`
