@@ -3,6 +3,8 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
 <br>
 
 #### Main Placeholders
+<br>
+
 * **`%upun_player_bans%`**
   Shows current user ban amount
 * **`%upun_player_mutes%`**
@@ -41,8 +43,11 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   Shows how long current user freeze duration is
 * **`%upun_player_muteDuration%`**
   Shows how long current user mute duration is
+<br>
 
 #### Format Placeholders
+<br>
+
 * **`{id}`**
   Shows the id of the punishment
 * **`{PunishmentDate}`**
