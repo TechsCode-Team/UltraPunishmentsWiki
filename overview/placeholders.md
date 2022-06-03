@@ -2,7 +2,7 @@
 Below is a list of all available placeholders. Keep in mind these placeholders require **[PlaceholderAPI](https://www.spigotmc.org/resources/6245/)** & a plugin that supports the API!
 <br>
 
-#### Main Placeholders
+## Main Placeholders
 <br>
 
 * **`%upun_player_bans%`**
@@ -45,7 +45,7 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   Shows how long current user mute duration is
 <br>
 
-#### Format Placeholders
+## Format Placeholders
 <br>
 
 * **`{id}`**
