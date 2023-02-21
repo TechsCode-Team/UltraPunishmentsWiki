@@ -2,8 +2,8 @@
 Here is a list of all the permissions that can be used.
 <br>
 
-* `ultrapunishments.admin`
-  Allows access to `/upun`
+* `ultrapunishments.admin.openGUI`
+  Allows access to `/upun`  
 * `ultrapunishments.ban.execute`
   Allows to ban a player
 * `ultrapunishments.ban.revoke`
@@ -52,7 +52,11 @@ Here is a list of all the permissions that can be used.
   Allow to manage the details
 * `ultrapunishments.report.respond`
   Allow to respend to reports
+* `ultrapunishments.report.execute`
+  Allow to execute the `/report` command
 * `ultrapunishments.mutechat.bypass`
   Allow players this permission to bypass the mutechat
 * `ultrapunishments.broadcaster.recieve`
   Allows players to see the punishment broadcast message
+* `ultrapunishments.transferData`
+  Allows access to the `/uptransfer` command
