@@ -19,9 +19,9 @@ Here is a list of all the permissions that can be used.
 * `ultrapunishments.kick.execute`
   Allows to kick a player from the server
 * `ultrapunishments.warning.execute`
-  Allow to issue warnings
+  Allows to issue warnings
 * `ultrapunishments.warning.revoke`
-  Allow to revoke previously issued warnings
+  Allows to revoke previously issued warnings
 * `ultrapunishments.chatclear.execute`
   Allows the clear the chat for everyone
 * `ultrapunishments.mutechat.execute`
@@ -43,19 +43,19 @@ Here is a list of all the permissions that can be used.
 * `ultrapunishments.bypass.freeze`
   Bypasses getting frozen  
 * `ultrapunishments.manage.templates`
-  Allow to manage templates
+  Allows to manage templates
 * `ultrapunishments.manage.settings`
-  Allow to manage settings
+  Allows to manage settings
 * `ultrapunishments.manage.exclusions`
-  Allow to manage ban exclusions
+  Allows to manage ban exclusions
 * `ultrapunishments.manage.details`
-  Allow to manage the details
+  Allows to manage the details
 * `ultrapunishments.report.respond`
-  Allow to respend to reports
+  Allows to respond to reports
 * `ultrapunishments.report.execute`
-  Allow to execute the `/report` command
+  Allows to execute the `/report` command
 * `ultrapunishments.mutechat.bypass`
-  Allow players this permission to bypass the mutechat
+  Allows players this permission to bypass the mutechat
 * `ultrapunishments.broadcaster.recieve`
   Allows players to see the punishment broadcast message
 * `ultrapunishments.transferData`
