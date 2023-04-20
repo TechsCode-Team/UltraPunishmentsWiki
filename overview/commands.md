@@ -16,6 +16,8 @@ Here is a list of all the commands that can be used.
   To unmute a player
 * `/freeze <User> <Time> <Notification Type> [Reason]`
   To freeze a player
+* `/report <User>`
+  To report a player
 * `/unfreeze <User>`
   To unfreeze a player
 * `/kick <User> <Notification Type> [Reason]`
