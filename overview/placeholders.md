@@ -53,7 +53,7 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   Shows the expiry date of punishment with ID
 * **`%upun_punishment_<id>_fullDuration%`**
   Shows the set duration of punishment with ID
-* **`%upun_punishment_<id>_leftDuration%`**   
+* **`%upun_punishment_<id>_leftDuration%`**
   Shows the left duration of punishment with ID
 <br>
 
