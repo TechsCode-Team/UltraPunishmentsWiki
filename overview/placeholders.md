@@ -43,6 +43,18 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   Shows how long current user freeze duration is
 * **`%upun_player_muteDuration%`**
   Shows how long current user mute duration is
+* **`%upun_punishment_<id>_type%`**
+  Shows the type of punishment with ID
+* **`%upun_punishment_<id>_issuer%`**
+  Shows the issuer of punishment with ID
+* **`%upun_punishment_<id>_target%`**
+  Shows the target of punishment with ID
+* **`%upun_punishment_<id>_expiry%`**
+  Shows the expiry date of punishment with ID
+* **`%upun_punishment_<id>_fullDuration%`**
+  Shows the set duration of punishment with ID
+* **`%upun_punishment_<id>_leftDuration%`**   
+  Shows the left duration of punishment with ID
 <br>
 
 ## Format Placeholders
