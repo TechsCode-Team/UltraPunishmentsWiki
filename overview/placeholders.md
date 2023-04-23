@@ -13,21 +13,21 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   Shows current user report amount
 * **`%upun_player_freezes%`**
   Shows current user freeze amount
-* **`%upun_player_punishments%`**`
+* **`%upun_player_punishments%`**
   Shows current user all punishment amount
-* **`%upun_server_bans%`**`
+* **`%upun_server_bans%`**
   Shows amount of all existing bans
-* **`%upun_server_mutes%`**`
+* **`%upun_server_mutes%`**
   Shows amount of all existing mutes
-* **`%upun_server_freezes%`**`
+* **`%upun_server_freezes%`**
   Shows amount of all existing freezes
-* **`%upun_server_punishments%`**`
+* **`%upun_server_punishments%`**
   Shows amount of all existing punishments   
-* **`%upun_server_reports_all%`**`
+* **`%upun_server_reports_all%`**
   Shows amount of all created tickets
-* **`%upun_server_reports_opened%`**`
+* **`%upun_server_reports_opened%`**
   Shows amount of all open tickets
-* **`%upun_server_reports_closed%`**`
+* **`%upun_server_reports_closed%`**
   Shows amount of all closed tickets 
 * **`%upun_player_isPunishable%`**
   Shows (`True`/`False`) if current user is punishable
@@ -39,7 +39,7 @@ Below is a list of all available placeholders. Keep in mind these placeholders r
   Shows (`True`/`False`) if current user is frozen
 * **`%upun_player_banDuration%`**
   Shows how long current user ban duration is
-* **`%upun_player_freezeDuration`**
+* **`%upun_player_freezeDuration%`**
   Shows how long current user freeze duration is
 * **`%upun_player_muteDuration%`**
   Shows how long current user mute duration is
