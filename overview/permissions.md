@@ -44,6 +44,8 @@ Here is a list of all the permissions that can be used.
   Bypasses getting frozen  
 * `ultrapunishments.manage.templates`
   Allows to manage templates
+* `ultrapunishments.manage.blockedMuteCommands`
+  Allows to manage Blocked Commands while a Player is muted
 * `ultrapunishments.manage.settings`
   Allows to manage settings
 * `ultrapunishments.manage.exclusions`
