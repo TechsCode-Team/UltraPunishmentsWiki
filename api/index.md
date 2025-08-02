@@ -48,4 +48,4 @@ UltraPunishmentsAPI api = UltraPunishments.getAPI();
 UltraPunishmentsAPI api = UltraPunishmentsBungee.getAPI();
 ```
 
-This instance provides various methods for managing economic features, which are explained in detail on the other pages of this API documentation.
+This instance provides various methods for managing punishment features, which are explained in detail on the other pages of this API documentation.
